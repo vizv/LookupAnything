@@ -23,3 +23,6 @@ _ReSharper*/
 **/packages/*
 *.nuget.props
 *.nuget.targets
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
